@@ -21,3 +21,7 @@ Bert模型需要有良好的数据集和充分的训练量作为下游任务的�
 # 建立情感分析结果和电影评分的回归联系
 ![figure6](https://github.com/FZKChange/Movie_grades/assets/78149508/ebd1e3d1-2e1e-4a55-bec0-4ac603262e8b)
 ![image](https://github.com/FZKChange/Movie_grades/assets/78149508/96fd9e11-4e67-4de0-a855-a22e3791b55c)
+
+# 实验总结
+![image](https://github.com/FZKChange/Movie_grades/assets/78149508/800e17c3-db0a-424e-96e3-032204a5e072)
+
