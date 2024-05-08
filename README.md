@@ -1,3 +1,6 @@
+
+![figure1](https://github.com/FZKChange/Movie_grades/assets/78149508/2718fdb8-1b21-4f59-af49-06cf1fdd924c)
+
 # Movie_grades
 一个有关电影评分回归的集合，包括情感分析模型和打分回归算法，
 一共六个模型代码，两个回归算法结合三个语言分析模型，
